@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component {
 
     onClick() {
-        window.webkit.messageHandlers.AppModel.postMessage({})
+        window.webkit.messageHandlers.AppModel.postMessage({body: '在js里面调用js方法'})
     }
 
     render() {
