@@ -85,9 +85,8 @@ class Home extends Component {
             const obj = data[index--];
 
             return (
-
                 <div key={rowID} style={{padding: '0 15px'}}>
-                    <div style={{display: '-webkit-box', display: 'flex', padding: '15px 0'}}>
+                    <div style={{display: '-webkit-box', display: 'flex', padding: '15px 0'}} onClick={this.cellClick}>
                         <div>{obj}</div>
                     </div>
                 </div>
