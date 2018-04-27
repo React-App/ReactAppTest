@@ -10,10 +10,10 @@
 #### 2.0.1 添加react-router
     1> 终端输入 npm install react-router
 #### 2.0.2 React Router V4 介绍
+<a href="http://reacttraining.cn/" target="_blank">React Router V4 中文文档</a>
 
     React Router V4 正式版发布，该版本相较于前面三个版本有根本性变化，遵循 Just Component 的 API 设计理念。
     
-    <a href="http://reacttraining.cn/" target="_blank">React Router V4 中文文档</a>
     
     本次升级的主要变更有：
         1> 声明式 Declarative
