@@ -8,7 +8,7 @@
 
 ### 2.0 React-Router
 #### 2.0.1 添加react-router
-    1> 终端输入 npm install react-router
+    1> 终端输入 npm install react-router(react-router-dom, react-router-native, react-router-redux, react-router-config)
 #### 2.0.2 React Router V4 介绍
 <a href="http://reacttraining.cn/" target="_blank">React Router V4 中文文档</a>
 
@@ -26,4 +26,8 @@
         3> react-router-native 用于 React Native 的 React Router
         4> react-router-redux React Router 和 Redux 的集成
         5> react-router-config 静态路由配置帮助助手
+        
+### React Router资料
+#### React Router 4 简易入门
+<a>href="https://segmentfault.com/a/1190000010174260"</a>
 

@@ -20,7 +20,8 @@ class App extends Component {
                 <li>WhiteSpace 上下留白</li><hr/>
              </ol>
 
-         </div>);
+         </div>
+        );
     }
 }
 
